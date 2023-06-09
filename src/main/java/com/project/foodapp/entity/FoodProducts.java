@@ -21,7 +21,8 @@ public class FoodProducts {
 	private long productId;
 	private String productName;
 	private double productTotalPrice;
-	private double productDiscount; 
+	private double productDiscount;
+	private double productAvailability;
 	
 	private List<Item> items;
 	
